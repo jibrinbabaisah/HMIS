@@ -1,0 +1,21 @@
+
+2,Musa Alhaji Musa
+1,Mazai Safiyu
+3,umar musa
+3,umar musa
+2,Musa Alhaji Musa
+1,Mazai Safiyu
+3,umar musa
+4,Abdulkadir Liman
+2,Musa Alhaji Musa
+5,amina
+5,amina
+6,pious
+6,pious
+4,Abdulkadir Liman
+5,amina
+3,umar musa
+2,Musa Alhaji Musa
+8,karim
+3,umar musa
+8,karim

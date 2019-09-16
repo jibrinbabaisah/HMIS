@@ -1,0 +1,5 @@
+
+Mazai Safiyu,admin,admin,Administrator
+Umar Abetesco,warder,warder,Warder
+Fatima Baba Isah,nurse,nurse,Nurse
+Jibrin Baba Isah,doctor,doctor,Doctor
